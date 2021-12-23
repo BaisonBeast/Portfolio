@@ -1,0 +1,31 @@
+.about{
+	padding: 20px;
+	margin: -35px;
+}
+.about_intro{
+	font-size: 1.1rem;
+	padding: 20px;
+	margin: 10px 0;
+
+}
+.about_title{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica, sans-serif;;
+}	
+.about_container{
+	background-color: #dbdddf;
+	padding: 30px 20px;
+	border-bottom-left-radius: 25px; 
+	border-bottom-right-radius: 25px; 
+}
+.about_heading{
+	font-size: 25px;
+	font-weight: bold;
+	color: #354358;
+	margin-left: 10px;
+}
+

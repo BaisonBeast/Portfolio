@@ -1,0 +1,19 @@
+.navbar_items{
+	display: flex;
+}
+.navbar_active{
+	font-size: 2rem;
+	font-weight: 700;
+	color: #354358;
+	border-bottom: 4px solid #fa709a;
+}
+.navbar_item{
+	margin-right: 20px;
+	text-decoration: none;
+	color: #354358;
+	font-size: 1.3rem;
+}
+.navbar_item:hover{
+	 color: #344CB7; 
+	cursor: pointer;
+}

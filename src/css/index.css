@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merriweather:wght@300&display=swap');
+
+body{
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+.app_main-content {
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 25px 15px;
+    box-shadow: 0 0 10px black;
+}
+.app_container{
+  padding-top: 25px;
+}
+.app_row{
+  height: 86vh;
+}
+
+@media(max-width:991px) {
+    .app_main-content {
+        margin: 30px 0;
+    }
+}
+
+
